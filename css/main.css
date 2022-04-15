@@ -67,6 +67,12 @@ img{
     text-transform: uppercase;
     color: #83888F;    
 }
+.our-collection{
+    padding-top: 144px;
+}
+.our-collection-img{
+    background: linear-gradient(180deg, rgba(254, 252, 247, 0.0001) 0%, #FEFCF7 100%);
+}
 .simple-cofe-container{
     margin-top: 54px;
     height: 500px;
